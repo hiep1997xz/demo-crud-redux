@@ -1,0 +1,35 @@
+/* header */
+.links{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link-add{
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+/* booklist */
+.h1-header{
+    text-align: center;
+}
+
+/*  */
+.submit-btn{
+    margin-top: 20px;
+}
+
+.book-list{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.books{
+    width: 400px;
+    margin-left: 5px;
+    justify-content: center;
+}
